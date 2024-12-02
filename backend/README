@@ -1,0 +1,3 @@
+adams weather app - backend:
+
+make sure you are in the backend folder. than type npm i to install node modules. you can use npm run start or npm run dev (for nodemon). there is also an env file.
